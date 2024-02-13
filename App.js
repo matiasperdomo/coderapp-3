@@ -3,7 +3,6 @@ import { View, StyleSheet } from "react-native";
 import Constants from "expo-constants";
 import Home from "./src/screens/Home";
 import ItemListCategories from "./src/screens/ItemListCategories";
-import { fonts } from "./src/global/fonts";
 import { StatusBar } from "expo-status-bar";
 import { useFonts } from "expo-font";
 
